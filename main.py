@@ -2,7 +2,7 @@
 import json
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="your_api_key")
 
 # Load sample ads
 with open('data/sample_ads.json') as f:
