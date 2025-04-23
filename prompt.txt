@@ -1,0 +1,7 @@
+Extract the following from this ad:
+- Brand Name
+- Product Name
+- Key Features
+- Slogan (if any)
+
+Text: "{{ad_text}}"
